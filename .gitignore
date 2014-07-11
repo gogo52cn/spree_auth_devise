@@ -1,0 +1,6 @@
+spec/dummy
+.sass-cache
+coverage
+Gemfile.lock
+*.swp
+.rvmrc
